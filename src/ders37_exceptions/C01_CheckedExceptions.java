@@ -1,4 +1,4 @@
-package ders37_exception;
+package ders37_exceptions;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

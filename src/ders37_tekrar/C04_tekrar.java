@@ -1,6 +1,6 @@
-package ders37_exception;
+package ders37_tekrar;
 
-public class C04_ThrowKeyword {
+public class C04_tekrar {
     public static void main(String[] args) {
         String a=null;
         String b="";
@@ -14,3 +14,4 @@ public class C04_ThrowKeyword {
         }
     }
 }
+

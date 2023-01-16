@@ -1,4 +1,4 @@
-package ders37_exception;
+package ders37_exceptions;
 
 public class C02_ClassCastException {
     public static void main(String[] args) {
